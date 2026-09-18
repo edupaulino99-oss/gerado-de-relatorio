@@ -1,0 +1,6 @@
+{
+  "name": "Sistema de Inspeções Técnicas com IA",
+  "description": "Sistema corporativo para realização de inspeções técnicas periódicas em ativos, análise com IA, validação humana e geração de relatórios técnicos em Word (.docx).",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
